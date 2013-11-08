@@ -1,0 +1,4 @@
+# Execute the monitoring script every 30 minutes.
+
+*/30 * * * * /usr/local/bin/php /path/to/monitor.php
+
